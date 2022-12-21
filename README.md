@@ -1,0 +1,1 @@
+Global Exception handling test app base on: https://medium.com/dev-genius/spring-boot-global-exception-handling-with-thymeleaf-rest-apis-96f61ff62dda
